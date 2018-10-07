@@ -54,7 +54,7 @@ raised for division by zero and mod by zero.
 
 #include "Python.h"
 #include "_math.h"
-
+#include "conio.h"
 #include "clinic/mathmodule.c.h"
 
 /*[clinic input]
